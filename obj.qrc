@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>obj/saber_c3_evk_v2_0_for_qt_edit2.mtl</file>
+        <file>obj/saber_c3_evk_v2_0_for_qt_edit2.obj</file>
+        <file>obj/coordinate.obj</file>
+        <file>obj/coordinate.mtl</file>
+    </qresource>
+</RCC>
